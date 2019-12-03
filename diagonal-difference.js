@@ -1,6 +1,6 @@
 
 /*
- * HackerRank Diagonal Difference
+ * HackerRank Diagonal Difference challenge.
   
  * Complete the 'diagonalDifference' function below.
  *
