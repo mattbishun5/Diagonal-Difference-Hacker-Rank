@@ -1,5 +1,7 @@
 
 /*
+ * HackerRank Diagonal Difference
+  
  * Complete the 'diagonalDifference' function below.
  *
  * The function is expected to return an INTEGER.
