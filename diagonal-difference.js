@@ -5,7 +5,7 @@
  * Complete the 'diagonalDifference' function below.
  *
  * The function is expected to return an INTEGER of the difference between two diagonals of a given matrix.
- * The function accepts an Array arr as a parameter. This array is a Matrix, in this case is 3 by 3.
+ * The function accepts an Array arr as a parameter. This array is a Matrix.
  */
 
 function diagonalDifference(arr) {
